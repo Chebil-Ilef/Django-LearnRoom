@@ -1,0 +1,26 @@
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore the django_env virtual environment
+django_env/
+
+# Ignore Python cache files
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore other virtual environments
+venv/
+.env/
+
+# Ignore logs
+*.log
+
+# Ignore Django migrations
+migrations/
+
+# Ignore VS Code settings
+.vscode/
